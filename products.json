@@ -1,0 +1,242 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Crocs Crocband Full Force Clogs (Black)",
+	    "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-22-at-4.30.03-PM-1.jpeg",
+        "price": 2,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Crocs Bayaband Printed Clogs (Dark Grey)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-2.35.57-PM-300x300.jpeg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Crocs Bayaband Printed Clogs (Blue)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-03-at-12.38.57-PM-300x300.jpeg",
+        "price": 1199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Crocs Bayaband Printed Clogs (Seagreen/Blue)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-11-at-4.17.27-PM-2-300x300.jpeg",
+        "price": 1199, 
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Crocs Literide 360 Clogs (Black Grey)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-21-at-11.16.45-AM-300x300.jpeg",
+        "price": 1999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "Crocs Literide Clogs (Core Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-2.35.57-PM-300x300.jpeg",
+        "price": 1699,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Crocs Bayaband Clogs (Navy)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/10/177072-300x300.jpg",
+        "price": 1199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 8,
+        "title": "Crocs Bayaband Clogs (Light Grey Orange)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/07/WhatsApp-Image-2023-05-18-at-3.55.53-PM-2-300x300.jpeg",
+        "price": 1199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Crocs Bayaband Clogs (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/11/Crocs-899-4-300x300.jpg",
+        "price": 1199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "Crocs Classic Hiker Clogs (White)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/10/0B439881-81B0-4AA3-87EE-1260F09073F4-300x300.jpeg",
+        "price": 2199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 11,
+        "title": "Crocs Classic Hiker Clogs (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/10/A7CAD32D-7B49-426D-AA65-E540E9E6A490-300x300.jpeg",
+        "price": 2199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 12,
+        "title": "Crocs Literide Clogs (Black Red)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-04-at-5.33.38-PM-300x300.jpeg",
+        "price": 1699,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 13,
+        "title": "Crocs Literide Clogs (Black Grey)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-04-at-5.51.17-PM-300x300.jpeg",
+        "price": 1699,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 14,
+        "title": "Crocs Literide 360 Clogs (Army Green)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-27-at-5.25.31-PM-300x300.jpeg",
+        "price": 1999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 15,
+        "title": "Crocs Literide 360 Clogs (Navy)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-02-at-2.42.23-PM-300x300.jpeg",
+        "price": 1999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 16,
+        "title": "Crocs Crocband Full Force Clogs (Army Green)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-22-at-4.30.03-PM-300x300.jpeg",
+        "price": 2199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 17,
+        "title": "Adidas Yeezy Slides (Bone)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/Adidas-Yeezy-Slides-Bone.png",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 18,
+        "title": "Adidas Yeezy Slides (Soot)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/Adidas-Yeezy-Slides-Soot-300x300.png",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 19,
+        "title": "Adidas Yeezy Slides (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/Adidas-Yeezy-Slides-Black-300x300.png",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 20,
+        "title": "Adidas Adilette Slides (Black White)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/163718-300x300.jpg",
+        "price": 999,
+        "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 21,
+        "title": "Adidas Adilette Slides (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/163720-300x300.jpg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 22,
+        "title": "Under Armour Ignite V Slides (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/Frame-2-1-300x300.png",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 23,
+        "title": "Under Armour Ignite V Slides (White)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/Frame-1-3-300x300.png",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 24,
+        "title": "Jordan Hydro 6 Slides (Red)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/163426-300x300.jpg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 25,
+        "title": "Jordan Hydro 6 Slides (Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/163429-300x300.jpg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 26,
+        "title": "Jordan Hydro 6 Slides (White)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/09/163421-300x300.jpg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 27,
+        "title": "Yeezy Mickey Mouse Slides Desert Sand",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/07/7480375467-300x300.jpeg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 2,
+        "id": 28,
+        "title": "Yeezy Mickey Mouse Slides Silver",
+        "image": "https://bootifytrends.com/wp-content/uploads/2022/07/7363945902-1-300x300.jpeg",
+        "price": 999,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 29,
+        "title": "Crocs Crocband Clogs (White Red)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-2.35.52-PM-300x300.jpeg",
+        "price": 1199,
+	    "size":[7,8,9,10,11]
+    },
+    {
+        "userId": 1,
+        "id": 30,
+        "title": "Crocs Bayaband Printed Clogs (White Black)",
+        "image": "https://bootifytrends.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-2.35.58-PM-2-300x300.jpeg",
+        "price": 1299,
+	    "size":[7,8,9,10,11]
+    }
+]
